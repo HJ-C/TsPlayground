@@ -6,6 +6,6 @@
     "ts-node": "^10.7.0"
   },
   "scripts": {
-    "start" : "tsc && node dist/interface.js"
+    "start" : "tsc && node dist/function.js"
   }
 }
